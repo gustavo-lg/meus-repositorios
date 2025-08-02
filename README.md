@@ -33,7 +33,7 @@ src/styles/global.js: Estilos globais com styled-components.
 🧭 Navegação entre páginas com React Router.
 
 🧪 Como executar localmente
-git clone https://github.com/seu-usuario/meus-repositorios.git
+git clone https://github.com/gustavo-lg/meus-repositorios.git
 cd meus-repositorios
 npm install
 npm start
